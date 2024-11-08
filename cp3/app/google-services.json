@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "385418191869",
+    "project_id": "cp-3-bbf07",
+    "storage_bucket": "cp-3-bbf07.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385418191869:android:3bebba9cc442344d136f94",
+        "android_client_info": {
+          "package_name": "com.example.cp3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd_-9QCvD2eI-imSuQA2-i7sWeZNJyJFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
